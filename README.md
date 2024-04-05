@@ -1,4 +1,4 @@
-[https://risozhor.github.io/UMH-Projects/uasp.korrespondent.net](uasp.korrespondent.net)
+https://risozhor.github.io/UMH-Projects/uasp.korrespondent.net
 
 https://risozhor.github.io/UMH-Projects/2020.footbal.ua
 
